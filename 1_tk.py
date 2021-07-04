@@ -7,3 +7,4 @@ lb1 = Label(root, text='Hello Python!')
 lb1.pack()
 	
 root.mainloop()
+
